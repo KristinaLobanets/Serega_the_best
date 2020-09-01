@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-06-phonebook/static/css/main.4b354124.chunk.css",
-    "main.js": "/goit-react-hw-06-phonebook/static/js/main.383ce4e9.chunk.js",
-    "main.js.map": "/goit-react-hw-06-phonebook/static/js/main.383ce4e9.chunk.js.map",
-    "runtime-main.js": "/goit-react-hw-06-phonebook/static/js/runtime-main.683bdc55.js",
-    "runtime-main.js.map": "/goit-react-hw-06-phonebook/static/js/runtime-main.683bdc55.js.map",
-    "static/js/2.9b78bd32.chunk.js": "/goit-react-hw-06-phonebook/static/js/2.9b78bd32.chunk.js",
-    "static/js/2.9b78bd32.chunk.js.map": "/goit-react-hw-06-phonebook/static/js/2.9b78bd32.chunk.js.map",
-    "index.html": "/goit-react-hw-06-phonebook/index.html",
-    "precache-manifest.8c34130b54834ca2e98f95cc4ae29856.js": "/goit-react-hw-06-phonebook/precache-manifest.8c34130b54834ca2e98f95cc4ae29856.js",
-    "service-worker.js": "/goit-react-hw-06-phonebook/service-worker.js",
-    "static/css/main.4b354124.chunk.css.map": "/goit-react-hw-06-phonebook/static/css/main.4b354124.chunk.css.map",
-    "static/js/2.9b78bd32.chunk.js.LICENSE.txt": "/goit-react-hw-06-phonebook/static/js/2.9b78bd32.chunk.js.LICENSE.txt"
+    "main.css": "/Serega_the_best/static/css/main.4b354124.chunk.css",
+    "main.js": "/Serega_the_best/static/js/main.383ce4e9.chunk.js",
+    "main.js.map": "/Serega_the_best/static/js/main.383ce4e9.chunk.js.map",
+    "runtime-main.js": "/Serega_the_best/static/js/runtime-main.0ea870db.js",
+    "runtime-main.js.map": "/Serega_the_best/static/js/runtime-main.0ea870db.js.map",
+    "static/js/2.9b78bd32.chunk.js": "/Serega_the_best/static/js/2.9b78bd32.chunk.js",
+    "static/js/2.9b78bd32.chunk.js.map": "/Serega_the_best/static/js/2.9b78bd32.chunk.js.map",
+    "index.html": "/Serega_the_best/index.html",
+    "precache-manifest.9cd3c9bafd1e39ba89b41fc3643a0032.js": "/Serega_the_best/precache-manifest.9cd3c9bafd1e39ba89b41fc3643a0032.js",
+    "service-worker.js": "/Serega_the_best/service-worker.js",
+    "static/css/main.4b354124.chunk.css.map": "/Serega_the_best/static/css/main.4b354124.chunk.css.map",
+    "static/js/2.9b78bd32.chunk.js.LICENSE.txt": "/Serega_the_best/static/js/2.9b78bd32.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.683bdc55.js",
+    "static/js/runtime-main.0ea870db.js",
     "static/js/2.9b78bd32.chunk.js",
     "static/css/main.4b354124.chunk.css",
     "static/js/main.383ce4e9.chunk.js"
